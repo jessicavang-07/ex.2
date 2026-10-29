@@ -1,16 +1,25 @@
 header {
+    margin: 30px 0 0 0;
     border-bottom: 5px solid black;
+    width: 100%;
+    text-align: center;
 }
 
-
 body {
-    /*background-color: red;*/
+    /*display: flex;*/
+    justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
-    /*border-top: 20px solid red;*/
+    border: 5px dotted red;
 
     section.birds {
-        margin: 50px 0 0 0;
-        text-align: left;
+        border: 5px dotted blue;
+
+        p {
+            padding: 10px 300px 100px 300px;
+            text-align: center;
+
+        }
+
 
     }
 
