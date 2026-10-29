@@ -1,0 +1,18 @@
+header {
+    border-bottom: 5px solid black;
+}
+
+
+body {
+    /*background-color: red;*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*border-top: 20px solid red;*/
+
+    section.birds {
+        margin: 50px 0 0 0;
+        text-align: left;
+
+    }
+
+
+}
